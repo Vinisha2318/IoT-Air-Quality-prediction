@@ -1,8 +1,8 @@
 # Smart Indoor Air Quality Monitoring and Prediction System
-An IoT-based indoor air quality monitoring and prediction system using Arduino, ThingSpeak, Python, and Random Forest for real-time AQI monitoring, prediction, visualization, and alerts.
+An IoT-based indoor air quality monitoring and prediction system using Arduino,tinkercad, ThingSpeak, Python, and Random Forest for real-time AQI monitoring, prediction, visualization, and alerts.
 
 ## Features
-- Real-time sensor data collection using Arduino
+- Real-time sensor data collection using Arduino through tinkercad
 - Temperature, humidity, and air quality monitoring
 - Cloud storage and visualization using ThingSpeak
 - AQI prediction using Random Forest model
@@ -13,6 +13,7 @@ An IoT-based indoor air quality monitoring and prediction system using Arduino, 
 - MQ135 Sensor
 - DHT11 Sensor
 - Python
+- tinkercad
 - ThingSpeak Cloud
 - Random Forest Machine Learning
 
